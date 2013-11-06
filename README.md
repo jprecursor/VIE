@@ -1,7 +1,7 @@
 VIE
 ===
 
-VIE is an automata sequencer.
+An open-source automata sequencer.
 
 ENCYST LABS x NATANH
 
