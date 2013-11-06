@@ -1,8 +1,5 @@
-VIE
+V I E: an automata sequencer 
 ===
-
-An open-source automata sequencer.
-
 ENCYST LABS x NATANH
 
 ===
