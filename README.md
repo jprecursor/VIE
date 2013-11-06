@@ -1,17 +1,13 @@
 VIE
-ENCYST LABS x NATANH
 ===
 
 VIE is an automata sequencer.
 
+ENCYST LABS x NATANH
+
 ===
 
-=============================
-Current version [beta 0.1]: 
-=============================
-=============================
-
-GUI: 				
+[beta 0.1]
 
 Cells are non-clickable to avoid confusion. All inputs/outputs by MIDI.
 
@@ -25,6 +21,3 @@ Velocity range slider:
 	- max value constrained to not be lesser than min value. if so, max value shall be 
 	  offset 10 away from min value.
 	- no-random implemented when min value == max value
-
-=============================================================================
-=============================================================================
