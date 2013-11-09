@@ -6,7 +6,7 @@ Licensed under BSD 2-Clause license
 
 ===
 
-This project is created using the juce library. 
+This project is created using the JUCE library. 
 
 [beta 0.1]
 
