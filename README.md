@@ -4,6 +4,8 @@ ENCYST LABS x NATANH
 
 ===
 
+This project is created using the juce library. 
+
 [beta 0.1]
 
 Cells are non-clickable to avoid confusion. All inputs/outputs by MIDI.
