@@ -2,6 +2,8 @@ V I E: an automata sequencer
 ===
 ENCYST LABS x NATANH
 
+Licensed under BSD 2-Clause license
+
 ===
 
 This project is created using the juce library. 
