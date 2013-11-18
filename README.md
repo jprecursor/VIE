@@ -6,7 +6,8 @@ Licensed under BSD 2-Clause license
 
 ===
 
-This project is created using the JUCE library. 
+This project is created using the JUCE library and compiled at Universal(32/64-bit intel)(x86_64,i386) architecture with SDK OSX 10.8.
+For SDK Mac OS X 10.7 and below, open the xcode project and change the base SDK to your current/ latest Mac OS X version.
 
 [beta 0.1]
 
